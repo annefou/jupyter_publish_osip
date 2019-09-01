@@ -29,6 +29,10 @@
 # ===== NEW SECTION ========================================
 - title: Introduction
   url: introduction
+- title: JupyterLab as a framework for Open Science by Default
+  url: jupyterLab_extensions
+- title: Publication ready scientific reports and presentations with Jupyter ecosystem
+  url: write
 - title: Jupyter Publish-1
   url: jupyter_publish-1
 - title: Jupyter Publish-2

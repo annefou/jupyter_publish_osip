@@ -1,5 +1,5 @@
 ---
-interact_link: content/C:\Users\annefou\Documents\GitHub\coderefinery\osip-book\jupyter_publish_osip\content\setup.ipynb
+interact_link: content/C:\Users\annefou\Documents\Github\coderefinery\osip-book\jupyter_publish_osip\content\setup.ipynb
 kernel_name: python3
 has_widgets: false
 title: 'Setup'

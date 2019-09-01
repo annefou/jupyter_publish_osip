@@ -1,19 +1,59 @@
 ---
 redirect_from:
-  - "jupyter-publish-1"
-interact_link: content/C:\Users\annefou\Documents\Github\coderefinery\osip-book\jupyter_publish_osip\content\jupyter_publish-1.ipynb
+  - "jupyterlab-extensions"
+interact_link: content/C:\Users\annefou\Documents\Github\coderefinery\osip-book\jupyter_publish_osip\content\jupyterLab_extensions.ipynb
 kernel_name: python3
 has_widgets: false
-title: 'Jupyter Publish-1'
+title: 'JupyterLab as a framework for Open Science by Default'
 prev_page:
   url: /introduction.html
   title: 'Introduction'
 next_page:
-  url: /jupyter_publish-2.html
-  title: 'Jupyter Publish-2'
+  url: /jupyter_publish-1.html
+  title: 'Jupyter Publish-1'
+layout: episode
+
+
+
+title: "JupyterLab as a framework for Open Science by Default"
+
+
+
+teaching: 20
+
+
+
+exercises: 25
+
+
+
+questions:
+
+  - "How can we use JupyterLab for Open Science by default?"
+
+  - "What are JupyterLab extension?"
+
+  - "How can we extend JupyterLab?"
+
+objectives:
+
+  - "Learn to use JupyterLab for Open Science"
+
+  - "Learn where to find JupyterLab extension"
+
+  - "Learn how to create new JupyterLab extension"
+
+keypoints:
+
+  - "JupyterLab as a tool for all phases of research process."
+
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-# 1 - Introduction to JupyterLab
+
+
+
+
+ 1 - Introduction to JupyterLab
 
 
 ## What is Jupyterlab?
@@ -36,11 +76,10 @@ See [JupyterLab slides](https://github.com/jupyterlab/jupyterlab-demo/blob/maste
 
 
 
-
 ## Get familiar with Jupyterlab
 
 
-Make sure you have followed [setup instructions](setup.ipynb) and start jupyterlab:
+Make sure you have JupyterLab installed and start it:
 
 ![JupyterLab interface](images/jupyterlab.png)
 
