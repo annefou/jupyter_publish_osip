@@ -8,8 +8,6 @@ next_page:
   title: 'Introduction to JupyterLab'
 layout: episode
 
-title: "Introduction"
-
 teaching: 20
 
 exercises: 0
