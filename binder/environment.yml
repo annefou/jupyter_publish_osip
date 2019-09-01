@@ -13,12 +13,13 @@ dependencies:
   - ipypublish
   - nbconvert
   - pandas
-  - datascience
   - folium
   - matplotlib
-  - nbinteract
   - scipy
-  - jupyter-book
+  - pip
   - pip:
       - jupyterlab_latex
       - jupyterlab-git
+      - nbinteract
+      - jupyter-book
+      - datascience
