@@ -117,16 +117,6 @@
 
 
 
-code {
-	padding: 0 0;
-	color: inherit;
-	background-color: inherit;
-}
-
-img {
-	max-width: 100%;
-}
-
 /*make callout text the same size as others*/
 blockquote {
     font-size: 14px;
