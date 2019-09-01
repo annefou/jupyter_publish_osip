@@ -23,8 +23,8 @@
 
 # Top-level page
 
-- title: Index
-  url: /index
+- title: Introduction
+  url: /introduction
   not_numbered: true
   expand_sections: true
   sections:
