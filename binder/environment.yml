@@ -2,12 +2,11 @@ name: jupyter-publish
 
 channels:
   - conda-forge
-  - bioconda
-  - defaults
 
 dependencies:
   - python=3.7
   - numpy >=1.14
+  - jupytext>=1.2.0rc0
   - scikit-image
   - nbdime
   - ipypublish
@@ -17,6 +16,9 @@ dependencies:
   - matplotlib
   - scipy
   - pip
+  - c-compiler
+  - cxx-compiler
+  - zlib
   - pip:
       - jupyterlab_latex
       - jupyterlab-git
