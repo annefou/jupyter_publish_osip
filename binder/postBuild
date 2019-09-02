@@ -9,6 +9,3 @@ jupyter labextension install jupyterlab-drawio
 jupyter labextension install jupyterlab-jupytext
 jupyter labextension install @jupyterlab/latex
 jupyter labextension install @jupyterlab/geojson-extension
-
-jupyter serverextension enable --py jupyterlab_zenodo
-jupyter labextension install @chameleoncloud/jupyterlab_zenodo
