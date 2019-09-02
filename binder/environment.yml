@@ -25,3 +25,4 @@ dependencies:
       - nbinteract
       - jupyter-book
       - datascience
+      - jupyterlab_zenodo
